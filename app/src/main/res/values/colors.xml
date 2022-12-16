@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorFon">#654288</color>
+    <color name="textColor">#BB7E7E</color>
+    <color name="purple_500">#FF3700B3</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hint_user_field">#9C7E7E</color>
+    <color name="main_btn">#300F0F</color>
+    <color name="text_main_btn">#B7B4B4</color>
+    <color name="purple_200">#7E4343</color>
+
+
+</resources>

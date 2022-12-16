@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="logo">Погода в вашем городе</string>
+    <string name="hint_user_field">Введите город</string>
+    <string name="main_btn">Готово</string>
+    <string name="err_no_user_input">Не зная города, я не могу показать погоду</string>
+    <string name="loading_result">Ожидайте...</string>
+</resources>
